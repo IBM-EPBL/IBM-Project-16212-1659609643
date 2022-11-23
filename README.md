@@ -4,10 +4,10 @@ Personal Expense Tracker Application
 Category : Cloud App Development
 
 Team Member    	Name	          Register number
-Team Lead	     Sundaresan N	       (1921201)
-Team Member 1  Dinesh kumar M	     (1921123)
-Team Member 2	 Gokulraj R	         (1921128)
-Team Member 3	 Ashwin S	           (1921111)
+Team Lead	    - Sundaresan N	       (1921201)
+Team Member 1 - Dinesh kumar M	     (1921123)
+Team Member 2	- Gokulraj R	         (1921128)
+Team Member 3	- Ashwin S	           (1921111)
 
 Problem Statement:
 
