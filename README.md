@@ -8,6 +8,7 @@ Team Lead	     Sundaresan N	       1921201
 Team Member 1  Dinesh kumar M	     1921123
 Team Member 2	 Gokulraj R	         1921128
 Team Member 3	 Ashwin S	           1921111
+
 Problem Statement:
 
 In our daily life money is the most important portion and without it we cannot last one day on earth but if we keep on track all financial data then we can overcome this problem. Most of the people cannot track their expenses and income oneway they face the money crisis and depression. This situation motivates us to make an android app to track all financial activities. Using the Personal Expense Tracker Application user can be tracking expenses day to day and making life tension free.
